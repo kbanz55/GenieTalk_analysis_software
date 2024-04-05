@@ -1,0 +1,18 @@
+Metrics,Value
+Total Word Count,325.0
+Total Time (mins),648.0
+Total Utterance Count (TTS-button-selected),35.0
+Words Per Minute,0.5
+Total Character Count,1624.0
+Total Character Count (TTS),1659.0
+Total Time (sec),1055.38
+Total Character Per Second,1.54
+Total Actual Keystrokes,81.0
+Total Actual Keystroke Savings,261.0
+Actual Keystroke Savings (%),15.73
+Total Keystrokes,685.0
+Total Keystrokes Saved,0.0
+Theoretical Keystroke Savings (Liberal Estimate for Vocab Limit) (%),58.71
+Aggregated Total Min. characters (including TTS button),61.0
+Total Keystrokes saved (lexicon),1598.0
+Theoretical Keystroke Savings (Conservative Estimate for Vocab Limit) (%),96.32
